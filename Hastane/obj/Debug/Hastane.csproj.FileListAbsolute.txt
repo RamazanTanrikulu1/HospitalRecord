@@ -1,0 +1,33 @@
+C:\Users\ramazan\source\repos\Hastane\Hastane\obj\Debug\Hastane.csprojAssemblyReference.cache
+C:\Users\ramazan\source\repos\Hastane\Hastane\obj\Debug\Hastane.Properties.Resources.resources
+C:\Users\ramazan\source\repos\Hastane\Hastane\obj\Debug\Hastane.csproj.GenerateResource.cache
+C:\Users\ramazan\source\repos\Hastane\Hastane\obj\Debug\Hastane.csproj.CoreCompileInputs.cache
+C:\Users\ramazan\source\repos\Hastane\Hastane\bin\Debug\Hastane.exe.config
+C:\Users\ramazan\source\repos\Hastane\Hastane\bin\Debug\Hastane.exe
+C:\Users\ramazan\source\repos\Hastane\Hastane\bin\Debug\Hastane.pdb
+C:\Users\ramazan\source\repos\Hastane\Hastane\obj\Debug\Hastane.exe
+C:\Users\ramazan\source\repos\Hastane\Hastane\obj\Debug\Hastane.pdb
+C:\Users\ramazan\source\repos\Hastane\Hastane\obj\Debug\Hastane.Form1.resources
+C:\Users\ramazan\source\repos\Hastane\Hastane\obj\Debug\Hastane.Form3.resources
+C:\Users\ramazan\Desktop\Hastane\Hastane\bin\Debug\Hastane.exe.config
+C:\Users\ramazan\Desktop\Hastane\Hastane\bin\Debug\Hastane.exe
+C:\Users\ramazan\Desktop\Hastane\Hastane\bin\Debug\Hastane.pdb
+C:\Users\ramazan\Desktop\Hastane\Hastane\obj\Debug\Hastane.csprojAssemblyReference.cache
+C:\Users\ramazan\Desktop\Hastane\Hastane\obj\Debug\Hastane.Form1.resources
+C:\Users\ramazan\Desktop\Hastane\Hastane\obj\Debug\Hastane.Form3.resources
+C:\Users\ramazan\Desktop\Hastane\Hastane\obj\Debug\Hastane.Properties.Resources.resources
+C:\Users\ramazan\Desktop\Hastane\Hastane\obj\Debug\Hastane.csproj.GenerateResource.cache
+C:\Users\ramazan\Desktop\Hastane\Hastane\obj\Debug\Hastane.csproj.CoreCompileInputs.cache
+C:\Users\ramazan\Desktop\Hastane\Hastane\obj\Debug\Hastane.exe
+C:\Users\ramazan\Desktop\Hastane\Hastane\obj\Debug\Hastane.pdb
+C:\Users\ramazan\Desktop\Hastane kayıt - Kopya\Hastane\bin\Debug\Hastane.exe.config
+C:\Users\ramazan\Desktop\Hastane kayıt - Kopya\Hastane\bin\Debug\Hastane.exe
+C:\Users\ramazan\Desktop\Hastane kayıt - Kopya\Hastane\bin\Debug\Hastane.pdb
+C:\Users\ramazan\Desktop\Hastane kayıt - Kopya\Hastane\obj\Debug\Hastane.csprojAssemblyReference.cache
+C:\Users\ramazan\Desktop\Hastane kayıt - Kopya\Hastane\obj\Debug\Hastane.Form1.resources
+C:\Users\ramazan\Desktop\Hastane kayıt - Kopya\Hastane\obj\Debug\Hastane.Form3.resources
+C:\Users\ramazan\Desktop\Hastane kayıt - Kopya\Hastane\obj\Debug\Hastane.Properties.Resources.resources
+C:\Users\ramazan\Desktop\Hastane kayıt - Kopya\Hastane\obj\Debug\Hastane.csproj.GenerateResource.cache
+C:\Users\ramazan\Desktop\Hastane kayıt - Kopya\Hastane\obj\Debug\Hastane.csproj.CoreCompileInputs.cache
+C:\Users\ramazan\Desktop\Hastane kayıt - Kopya\Hastane\obj\Debug\Hastane.exe
+C:\Users\ramazan\Desktop\Hastane kayıt - Kopya\Hastane\obj\Debug\Hastane.pdb
